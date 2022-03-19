@@ -1,0 +1,12 @@
+C:\Users\david\source\repos\proyecto4\CapEntidad\bin\Debug\CapEntidad.dll
+C:\Users\david\source\repos\proyecto4\CapEntidad\bin\Debug\CapEntidad.pdb
+C:\Users\david\source\repos\proyecto4\CapEntidad\obj\Debug\CapEntidad.csprojAssemblyReference.cache
+C:\Users\david\source\repos\proyecto4\CapEntidad\obj\Debug\CapEntidad.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\proyecto4\CapEntidad\obj\Debug\CapEntidad.dll
+C:\Users\david\source\repos\proyecto4\CapEntidad\obj\Debug\CapEntidad.pdb
+E:\repos\proyecto4\CapEntidad\bin\Debug\CapEntidad.dll
+E:\repos\proyecto4\CapEntidad\bin\Debug\CapEntidad.pdb
+E:\repos\proyecto4\CapEntidad\obj\Debug\CapEntidad.csprojAssemblyReference.cache
+E:\repos\proyecto4\CapEntidad\obj\Debug\CapEntidad.csproj.CoreCompileInputs.cache
+E:\repos\proyecto4\CapEntidad\obj\Debug\CapEntidad.dll
+E:\repos\proyecto4\CapEntidad\obj\Debug\CapEntidad.pdb
